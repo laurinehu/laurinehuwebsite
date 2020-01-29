@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>argumentation on Laurine Huber</title>
-    <link>http://laurinehu.github.io/tags/argumentation/</link>
+    <link>http://laurinehu.github.io/laurinehu/tags/argumentation/</link>
     <description>Recent content in argumentation on Laurine Huber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:26:27 +1100</lastBuildDate>
     
-	<atom:link href="http://laurinehu.github.io/tags/argumentation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://laurinehu.github.io/laurinehu/tags/argumentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aligning Discourse and Argumentation Structures using Subtrees and Redescription Mining</title>
-      <link>http://laurinehu.github.io/publications/argmining2019/</link>
+      <link>http://laurinehu.github.io/laurinehu/publications/argmining2019/</link>
       <pubDate>Sat, 10 Feb 2018 11:26:27 +1100</pubDate>
       
-      <guid>http://laurinehu.github.io/publications/argmining2019/</guid>
+      <guid>http://laurinehu.github.io/laurinehu/publications/argmining2019/</guid>
       <description>In this paper, we investigate similarities between discourse and argumentation structures by aligning subtrees in a corpus containing both annotations. Contrary to previous works, we focus on comparing sub-structures and not only relation matches. Using data mining techniques , we show that discourse and argumen-tation most often align well, and the double annotation allows to derive a mapping between structures. Moreover, this approach enables the study of similarities between discourse structures and differences in their expressive power.</description>
     </item>
     

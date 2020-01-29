@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Laurine Huber</title>
-    <link>http://laurinehu.github.io/tags/</link>
+    <link>http://laurinehu.github.io/laurinehu/tags/</link>
     <description>Recent content in Tags on Laurine Huber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:26:27 +1100</lastBuildDate>
     
-	<atom:link href="http://laurinehu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://laurinehu.github.io/laurinehu/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>argumentation</title>
-      <link>http://laurinehu.github.io/tags/argumentation/</link>
+      <link>http://laurinehu.github.io/laurinehu/tags/argumentation/</link>
       <pubDate>Sat, 10 Feb 2018 11:26:27 +1100</pubDate>
       
-      <guid>http://laurinehu.github.io/tags/argumentation/</guid>
+      <guid>http://laurinehu.github.io/laurinehu/tags/argumentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>discourse</title>
-      <link>http://laurinehu.github.io/tags/discourse/</link>
+      <link>http://laurinehu.github.io/laurinehu/tags/discourse/</link>
       <pubDate>Sat, 10 Feb 2018 11:26:27 +1100</pubDate>
       
-      <guid>http://laurinehu.github.io/tags/discourse/</guid>
+      <guid>http://laurinehu.github.io/laurinehu/tags/discourse/</guid>
       <description></description>
     </item>
     
