@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laurine Huber</title>
+    <link>http://laurinehu.github.io/</link>
+    <description>Recent content on Laurine Huber</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Oct 2019 22:53:43 +0100</lastBuildDate>
+    
+	<atom:link href="http://laurinehu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I&#39;m happy to be part of RECITAL organization, colocated with TALN-JEP 2020 @ Nancy</title>
+      <link>http://laurinehu.github.io/others/my-first-post/</link>
+      <pubDate>Mon, 28 Oct 2019 22:53:43 +0100</pubDate>
+      
+      <guid>http://laurinehu.github.io/others/my-first-post/</guid>
+      <description>Description de l&amp;rsquo;event</description>
+    </item>
+    
+    <item>
+      <title>Aligning Discourse and Argumentation Structures using Subtrees and Redescription Mining</title>
+      <link>http://laurinehu.github.io/publications/argmining2019/</link>
+      <pubDate>Sat, 10 Feb 2018 11:26:27 +1100</pubDate>
+      
+      <guid>http://laurinehu.github.io/publications/argmining2019/</guid>
+      <description>In this paper, we investigate similarities between discourse and argumentation structures by aligning subtrees in a corpus containing both annotations. Contrary to previous works, we focus on comparing sub-structures and not only relation matches. Using data mining techniques , we show that discourse and argumen-tation most often align well, and the double annotation allows to derive a mapping between structures. Moreover, this approach enables the study of similarities between discourse structures and differences in their expressive power.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://laurinehu.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://laurinehu.github.io/contact/</guid>
+      <description>👩‍💻 laurine [dot] huber [at] loria [dot] fr
+📭 Bureau B150 Campus Scientifique, 615 Rue du Jardin-Botanique 54506 Vandœuvre-lès-Nancy</description>
+    </item>
+    
+  </channel>
+</rss>
